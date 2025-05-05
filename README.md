@@ -3,6 +3,8 @@
 A 2-player co-op dodge-and-slay arcade game built using Python + Pygame.  
 Survive the dragon’s fireballs, collect 30 black orbs, and launch a massive counterattack!
 
+Link: https://abhudaya.itch.io/dodge-bros
+
 ![Dodge Bros Logo](logo.png)
 
 ---
